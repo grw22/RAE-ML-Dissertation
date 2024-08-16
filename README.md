@@ -5,8 +5,4 @@ This project is to investigate whether a Random Forest Machine Learning model ca
 The latest model will always be in the Model folder.
 
 Packages required:
-pandas
-matplotlib
-sklearn
-logging
-numpy
+pandas, matplotlib, sklearn, logging, numpy, math, seaborn 
